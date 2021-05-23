@@ -33,10 +33,13 @@
 
 // document.write("<h2> String: Pakistani <br/> Charachter at Index 3: "+ index)
 
+//                                     Question 6
 
-
-
-
+// var fname = prompt('Enter first name')
+// lname = prompt('Enter second name')
+// fullName = fname.concat(" "+lname )
+// Name = fullName.toUpperCase()
+// alert("HELLO MR. "+ Name)
 
 
 
