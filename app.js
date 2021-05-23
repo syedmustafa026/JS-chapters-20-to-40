@@ -58,12 +58,17 @@
 
 //                                     Question 10
 
-input = "peanuts"
-newInput = input.toUpperCase()
+// input = "peanuts"
+// newInput = input.toUpperCase()
 
-document.write("<h2>User Input: "+input+ "<br/>Upper Case: " + newInput)
-
-
+// document.write("<h2>User Input: "+input+ "<br/>Upper Case: " + newInput)
 
 
+//                                     Question 11
 
+// userInput = "javascript"
+// Title = userInput.slice(0,1)
+// jay = Title.toUpperCase()
+// document.write("User Input; " +userInput+"<br/> Title case; "+ jay+userInput.slice(1))
+
+//                                     Question 12
