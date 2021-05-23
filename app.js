@@ -72,3 +72,9 @@
 // document.write("User Input; " +userInput+"<br/> Title case; "+ jay+userInput.slice(1))
 
 //                                     Question 12
+
+// num = "35.36"
+// res =num.split(".");
+// nol = res.join("")
+// document.write("<h2>Number =" +num+ "<br/>Results = "+ nol);
+
