@@ -6,6 +6,13 @@
 // fullName = fname.toUpperCase() + lname.toUpperCase()
 // alert("Heyloo Mr. " + fullName)
 
+//                                     Question 2
+
+// var name = prompt('Enter phone model name')
+// document.write("<h2>Your phone model is "+ name+"<br/> Length of strings: "+ name.length)
+
+//                                     Question 3
+
 
 
 
