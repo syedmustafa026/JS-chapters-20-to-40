@@ -18,5 +18,10 @@
 
 // document.write("<h2> String: Pakistani <br/> Index of 'n': "+ index)
 
+//                                     Question 4
 
 
+//  var string = "Hello world"
+//  index = string.indexOf("l",5)
+
+//  document.write ("<h2> String: Hello World <br/> last index of 'l': "+(index))
