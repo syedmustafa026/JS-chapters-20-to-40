@@ -13,6 +13,8 @@
 
 //                                     Question 3
 
+var string = 'Pakistani'
+index = string.indexOf("n")
 
 
 
