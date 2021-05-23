@@ -41,6 +41,18 @@
 // Name = fullName.toUpperCase()
 // alert("HELLO MR. "+ Name)
 
+//                                     Question 7
+
+// var city = "Hyderabad"
+// newName = city.replace("hyder","Islam")
+
+// document.write("<h2>City: "+ city + "<br/> After Replacement: " +newName )
+
+//                                     Question 8
+
+
+
+
 
 
 
