@@ -50,9 +50,11 @@
 
 //                                     Question 8
 
+// var message = "Ali and Sami are best friends. They play cricket and football together."
 
+// para = message.replace(/and/g,"&")
 
-
+// document.write("<H2> Paragraph:</h2><h4> "+message+ "<br/></h4><h2> After Changes: </h2>"+ para )
 
 
 
