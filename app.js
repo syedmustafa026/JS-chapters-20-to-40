@@ -25,3 +25,20 @@
 //  index = string.indexOf("l",5)
 
 //  document.write ("<h2> String: Hello World <br/> last index of 'l': "+(index))
+
+//                                     Question 5
+
+// var string = 'Pakistani'
+// index = string.charAt(3)
+
+// document.write("<h2> String: Pakistani <br/> Charachter at Index 3: "+ index)
+
+
+
+
+
+
+
+
+
+
