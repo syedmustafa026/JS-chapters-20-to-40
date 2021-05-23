@@ -13,9 +13,10 @@
 
 //                                     Question 3
 
-var string = 'Pakistani'
-index = string.indexOf("n")
+// var string = 'Pakistani'
+// index = string.indexOf("n")
 
+// document.write("<h2> String: Pakistani <br/> Index of 'n': "+ index)
 
 
 
