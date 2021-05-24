@@ -78,3 +78,23 @@
 // nol = res.join("")
 // document.write("<h2>Number =" +num+ "<br/>Results = "+ nol);
 
+//                                     Question 14
+
+// var bakery = ["cake", "apple pie", "cookie", "chips", "patties"]
+
+// input = prompt("What do you want from bakery")
+// for (var i = 0; i < bakery.length; i++) {
+//   if (input.toLowerCase() === bakery[i])
+// {
+//     alert("Yes it is Available")}
+//     else{
+//         alert("Not Available")
+//     }
+//     break
+// }
+    
+
+
+
+
+
