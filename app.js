@@ -78,6 +78,19 @@
 // nol = res.join("")
 // document.write("<h2>Number =" +num+ "<br/>Results = "+ nol);
 
+//                                     Question 13
+// input = prompt("Enter your username")
+// num = input.charCodeAt(33)
+
+// for (var i = 0; i < num.length; i++) {
+//    if (input === num[i] ){
+//        alert("Please Enter valid username")
+//    }
+//     else if (input !== num[i] ){
+//         alert("Thanks for entering username") 
+//     }
+//     break
+// }
 
 //                                     Question 14
 
