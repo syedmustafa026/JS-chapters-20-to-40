@@ -56,6 +56,14 @@
 
 // document.write("<H2> Paragraph:</h2><h4> "+message+ "<br/></h4><h2> After Changes: </h2>"+ para )
 
+//                                     Question 9
+
+// var str = "472"
+// number = parseInt(str)
+
+// document.write("<h2>Value "+str +"<br/> Type:String <br/>Value: "+number+ "<br/> Type: Number")
+
+
 //                                     Question 10
 
 // input = "peanuts"
@@ -74,23 +82,21 @@
 //                                     Question 12
 
 // num = "35.36"
-// res =num.split(".");
-// nol = res.join("")
-// document.write("<h2>Number =" +num+ "<br/>Results = "+ nol);
+// res =num.replace(".", "")
+// document.write("<h2>Number =" +num+ "<br/>Results = "+ res);
 
 //                                     Question 13
 // input = prompt("Enter your username")
 // num = input.charCodeAt(33)
 
-// for (var i = 0; i < num.length; i++) {
-//    if (input === num[i] ){
+
+//    if (input === num ){
 //        alert("Please Enter valid username")
 //    }
-//     else if (input !== num[i] ){
+//     else if (input !== num ){
 //         alert("Thanks for entering username") 
 //     }
-//     break
-// }
+
 
 //                                     Question 14
 
