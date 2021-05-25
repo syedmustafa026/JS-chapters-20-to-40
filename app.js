@@ -112,11 +112,27 @@
 //     }
 //     break;
 // }
-    
- //                                   Question 15
+ //                                   Question 16
 
+//  var name = "University of Karachi";
 
+// for(var i = 0; i < name.length; i++){
+//     console.log(name.slice(i, i+1))
+// }
+ //                                   Question 17
 
+// contry = "pakistan"
+// index = contry.slice(7,8)
 
+// document.write("<h2>User Input: "+contry+ "<br/> Last charachter of input: "+index)
 
+ //                                   Question 18
 
+//  mess = "“The quick brown fox jumps over the lazy dog”."
+
+//  for (var i = 0; i < mess.length; i++) {
+//     if (mess === "the"){
+
+//     }
+     
+//  }
