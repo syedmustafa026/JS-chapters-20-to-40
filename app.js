@@ -115,7 +115,7 @@
 
  //                                   Question 18
 
-//  mess = "“The quick brown fox jumps over the lazy dog”."
+//  mess = "“the quick brown fox jumps over the lazy dog”."
 
 //  for (var i = 0; i < mess.length; i++) {
 //     if (mess === "the"){
