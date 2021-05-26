@@ -85,19 +85,6 @@
 // res =num.replace(".", "")
 // document.write("<h2>Number =" +num+ "<br/>Results = "+ res);
 
-//                                     Question 13
-// input = prompt("Enter your username")
-// num = input.charCodeAt(33)
-
-
-//    if (input === num ){
-//        alert("Please Enter valid username")
-//    }
-//     else if (input !== num ){
-//         alert("Thanks for entering username") 
-//     }
-
-
 //                                     Question 14
 
 // var bakery = ["cake", "apple pie", "cookie", "chips", "patties"]
