@@ -56,6 +56,58 @@
 
 //                                    QUESTION 5
 
+// function calc(){
+//     var num1 = prompt("Find Square enter number")
+//     square = num1 * num1
+    
+//     console.log (square)
+//     return (num1)
+// }
+//     calc()
+   
+//                                    QUESTION 6
+
+// function factorial(x) { 
+//     if (x === 0) {
+//     return 1;
+//     }
+//     return x * factorial(x-1);
+// }
+// var factor = +prompt("Enter a Factorial Number ")
+// document.write("<br><br>" + factorial(factor) + "<br><br>");
+
+//                                    QUESTION 7
+
+// function counting (startnum,endnum){
+//     for (i=startnum; i <= endnum; i++){
+//         document.write("<br>" + i);
+//     }
+// }
+// var startnum = +prompt('Enter a number for Start Counting ');
+// var endnum = +prompt('Enter a number for End Counting ');
+// document.write("<h1>Counting</h2>");
+// document.write("<h3>Starting number : " + startnum +" Ending number is : "+endnum);
+// counting(startnum,endnum);
+
+
+//                                    QUESTION 12
+
+
+// function getLongestWord(word) {
+//     var longest = "";
+//     var split = word.split(" ");
+//     for (var i = 0; i < split.length; i++) {
+//         if (split[i].length > longest.length) {
+//             longest = split[i]
+//         }
+//     }
+//     return longest;
+
+// }
+
+// var result1 = getLongestWord("Web Development Tutorial")
+
+// console.log(result1)
 
 
 
