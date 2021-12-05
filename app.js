@@ -20,7 +20,6 @@
 
 //                                     Question 4
 
-
 //  var string = "Hello world"
 //  index = string.indexOf("l",5)
 
@@ -135,3 +134,4 @@
 // console.log(mess)
 //     }
 //  }
+// Endd
